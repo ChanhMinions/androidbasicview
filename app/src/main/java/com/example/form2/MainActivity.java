@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
     //EditText pname;
     //EditText pemail;
     @Override
+    //2020 Copyright by Tiendatmagic
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
@@ -85,3 +86,4 @@ public class MainActivity extends AppCompatActivity {
     }
 
 }
+//2020 Copyright by Tiendatmagic
